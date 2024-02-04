@@ -1,0 +1,21 @@
+.header__nav-item:hover,.header__nav-contact-btn:hover{
+    background-color: black;
+    border: 1px solid transparent;
+    color: var(--secondary-color);
+    box-shadow: 4px 4px  rgb(80, 78, 78);
+}
+
+.hero__left__btn:hover,.learn__more__btn:hover,.subscribe__btn:hover{
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+    box-shadow: 5px 5px var(--primary-color);
+}
+
+
+.pricing__card__btn:hover{
+    background-color: rgb(80, 78, 78);
+    color: var(--secondary-color);
+    border-color: transparent;
+    box-shadow: 5px 5px var(--primary-color);
+}

@@ -1,0 +1,10 @@
+/* footer */
+
+footer {
+    border-top: 1px solid var(--primary-color);
+    padding: 20px 0px;
+}
+
+.footer__right {
+    color: var(--primary-color);
+}
